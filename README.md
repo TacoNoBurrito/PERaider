@@ -6,7 +6,13 @@
  - Any Server IP
  - Customizable Message
 
-See a video on how it works here: 
+# Where do i download?
 
-(remember to put link when a video is made)
+ - You can find a download in the releases tab on the left.
+
+# How does it work?
+
+ - Check out a video here: <a href="https://video">video</a>
+
+
 
