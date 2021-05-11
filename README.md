@@ -12,7 +12,7 @@
 
 # How does it work?
 
- - Check out a video here: <a href="https://video">video</a>
+ - Check out a video here: <a href="https://www.youtube.com/watch?v=T57zEvbImvU&ab_channel=TTqco">video</a>
 
 
 
